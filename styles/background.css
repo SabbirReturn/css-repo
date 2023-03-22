@@ -1,0 +1,12 @@
+#header{
+    height: 400px;
+    background-image: url('../Blog.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: blueviolet;
+    background-blend-mode: multiply;
+    /* background-size: contain; */
+    background-size: 700px;
+    border: 5px solid red;
+    color: crimson;
+}
