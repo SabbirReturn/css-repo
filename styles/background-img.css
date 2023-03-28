@@ -1,11 +1,29 @@
 #header{
     text-align: center;
-    height: 500px;
+    height: 200px;
     background-image: url('../download.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size:contain;
     background-blend-mode: multiply;
-    background-color: red;
+    /* background-size: cover; */
+    /* border-image: 5px space red; */
+    /* background-color: red; */
+    /* border: 100px  solid red; */
+    /* border-image: url('../download.jpg'); */
+    /* border-image-repeat: stretch; */
 
+}
+.blog{
+    text-align: center;
+    text-decoration: underline;
+    background-color: chocolate;
+    border: 5px solid red;
+    margin: 2px 500px 2px 500px;
+}
+.color{
+    background-color: darkgreen;
+    padding: 20px 100px 20px 100px;
+    border: 5px solid red;
+    margin: 2px 200px 2px 200px;
 }
